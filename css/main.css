@@ -1,9 +1,13 @@
+
+
+  
 #hero {
-    background-image: url(../images/greywhite.svg);
+    background-image: url(../images/CTA.png);
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: #999;
+    font-family: "Courgette", cursive;
   }
   
   #hero .d-flex{
